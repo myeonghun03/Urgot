@@ -10,9 +10,9 @@ const liveimg = document.querySelector("#liveimg");
 const deadimg = document.querySelector("#deadimg");
 isdead = false;
 
-deadDay = new Date("2023-12-03 14:00");
+deadDay = new Date("2023-12-04 14:00");
 reviveDay = new Date("2025-08-01 00:00");
-const startday = new Date("2023-12-03 00:00");
+const startday = new Date("2023-12-03 15:00");
 
 
 function diffDay(){
